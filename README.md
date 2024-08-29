@@ -1,5 +1,9 @@
 **Author : Mohammad Hamza Ijaz**
+
+
 **Project : Personal Portfolio in html/css**
+
+
 **Dated : 29-08-24**
 
 Personally developed the whole portfolio of my own using html and css basics, got a strong grip on front end developing by editing the whole project.
